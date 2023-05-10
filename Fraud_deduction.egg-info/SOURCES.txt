@@ -1,0 +1,7 @@
+README.md
+setup.py
+Fraud_deduction.egg-info/PKG-INFO
+Fraud_deduction.egg-info/SOURCES.txt
+Fraud_deduction.egg-info/dependency_links.txt
+Fraud_deduction.egg-info/requires.txt
+Fraud_deduction.egg-info/top_level.txt
